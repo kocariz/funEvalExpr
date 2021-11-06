@@ -15,3 +15,7 @@ The list above is sorted by precedence, from lower to higher.
 >>./funEvalExpr “(0.345+ 5 )*( -2-1) / 3"
 -5.35
 ```
+
+Authors:
+* Kattalin Ocariz
+* Oriol Moles
