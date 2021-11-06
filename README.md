@@ -2,7 +2,7 @@
 The goal of this project is to implement a functional EvalExpr, which takes a string as parameter, which represents a mathematical expression, evaluates this expression and returns the result as an integer
 
 Authors:
-* [Kattalin Ocariz] (https://github.com/kocariz)
+* [Kattalin Ocariz](https://github.com/kocariz)
 * Oriol Moles
 # Project
 Your program must handle float numbers, parentheses and the following binary operators:
