@@ -3,7 +3,7 @@ The goal of this project is to implement a functional EvalExpr, which takes a st
 
 Authors:
 * [Kattalin Ocariz](https://github.com/kocariz)
-* Oriol Moles
+* [Oriol Moles](https://github.com/EruiDev)
 # Project
 Your program must handle float numbers, parentheses and the following binary operators:
 
